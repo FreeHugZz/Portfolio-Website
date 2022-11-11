@@ -1,0 +1,32 @@
+{
+    "portfolie": {
+      "jobs": [
+        {
+          "company": "Own company in E-commerce",
+          "task": "Marketing, content creator, customer service, supplier contact etc."
+        },
+        {
+          "company": "Airport Security Bromma",
+          "task": "Security work, PRM at Bromma airport."
+        },
+        {
+          "company": "Arrow Electronics - Stockholm",
+          "task": "Quality control of data components."
+        },
+        {
+          "company": "Reitan Convenience Sweden",
+          "task": "Sales and customer support"
+        }
+      ],
+      "edu": [
+        {
+          "school": "Fullstack .NET - Chasacademy",
+          "education": "JavaScript, C#, Redux, ASP.NET, API, REST, GraphQL as well as SOAP, ER, EER and UML – OBDC - Azure Cloud Services - TSCL"
+        },
+        {
+          "school": "Mechanical engineering – KTH",
+          "education": "Energy technology, electricity and control technology. Information technology and engineering methodology. Auto-CAD. Programming. Computer-based engineering tools. Quality Assurance & Lean Production. Sustainable development and working environment. External accounting. Accounting. Industrial marketing. Calculation, financing and organizational theory. Entrepreneurship and management."
+        }
+      ]
+    }
+  }

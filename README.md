@@ -1,1 +1,1 @@
-# Portfolio-Website
+This is my first school project representing a portfolio website about me.
